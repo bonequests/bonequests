@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=20waystokillsomeone&style=plastic&color=142b4b&label=views) 
+![](https://komarev.com/ghpvc/?username=20waystokillsomeone&style=plastic&color=050e1b&label=views) 
 
 hi go read my strawpage 
 #lickdickforever
