@@ -8,4 +8,4 @@
 </p>
 
 
-<img width="360" height="25" alt="Image" src="https://github.com/user-attachments/assets/f6580977-2d04-47e5-89e3-2787f94a493c" /> ![](https://komarev.com/ghpvc/?username=20waystokillsomeone&style=plastic&color=yellow&label=shagadelic_baby) <img width="360" height="25" alt="Image" src="https://github.com/user-attachments/assets/f6580977-2d04-47e5-89e3-2787f94a493c" />
+<img width="340" height="25" alt="Image" src="https://github.com/user-attachments/assets/f6580977-2d04-47e5-89e3-2787f94a493c" /> ![](https://komarev.com/ghpvc/?username=20waystokillsomeone&style=plastic&color=yellow&label=shagadelic_baby) <img width="340" height="25" alt="Image" src="https://github.com/user-attachments/assets/f6580977-2d04-47e5-89e3-2787f94a493c" />
