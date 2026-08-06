@@ -1,7 +1,4 @@
-
-
-
-
+<img width="200" height="25" alt="Image" src="https://github.com/user-attachments/assets/f6580977-2d04-47e5-89e3-2787f94a493c" /> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Henny+Penny&size=36&pause=999&color=F7D039&width=449&height=70&lines=Yeah%2C+baby%2C+yeah!;Groovy%2C+baby!;Shagadelic!)](https://git.io/typing-svg) <img width="200" height="25" alt="Image" src="https://github.com/user-attachments/assets/f6580977-2d04-47e5-89e3-2787f94a493c" />
 
 <p align="center">
 <img width="703" height="353" alt="Image" src="https://github.com/user-attachments/assets/3fc8a240-04d8-4122-adbf-487e1b67231c" />
